@@ -1,0 +1,6 @@
+{
+    "footsteps.doHighlightCurrentlyFocusedChunk": true,
+    "footsteps.highlightColor": "rgb(255, 255, 255)",
+    "footsteps.doHighlightOnClick": true,
+    "footsteps.minDistanceFromCursorToHighlight": 0
+}
